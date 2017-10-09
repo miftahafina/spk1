@@ -1,0 +1,17 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+th {
+  vertical-align: middle !important;
+  text-align: center !important;
+}
+
+input[type="number"], .right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}
